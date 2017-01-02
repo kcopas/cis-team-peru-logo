@@ -1,0 +1,92 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: 2015-flyer.indd
+
+PACKAGE DATE: 02/01/17 16:45
+Creation Date: 02/01/17
+Modification Date: 02/01/17
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 0
+Non Opaque Objects :On Page1, 2
+
+FONTS
+6 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: AkzidenzGroteskBE-MdEx; Type: Type 1, Status: OK
+- Name: PTSans-Bold; Type: TrueType, Status: OK
+- Name: PTSans-Italic; Type: TrueType, Status: OK
+- Name: PTSans-NarrowBold; Type: TrueType, Status: OK
+- Name: PTSans-Regular; Type: TrueType, Status: OK
+- Name: RedFive; Type: Type 1, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 16,000; Lines/Inch: 154,000
+- Name and Type: Process Magenta; Angle: 76,000; Lines/Inch: 154,000
+- Name and Type: Process Yellow; Angle: 0,000; Lines/Inch: 150,000
+- Name and Type: Process Black; Angle: 50,000; Lines/Inch: 154,000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 12 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 12 use RGB color space
+
+
+PRINT SETTINGS
+PPD: Lexmark E460dn, (LexmarkBW3rdFloor)
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0 cm, 0 cm, 0 cm, 0 cm
+Color: Composite CMYK
+Trapping Mode: None
+Send Image Data: Optimized Subsampling
+OPI/DCS Image Replacement: No
+Page Size: A4
+Paper Dimensions: 20,9903 cm x 29,7039 cm
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. 2015-flyer.indd; type: Adobe InDesign publication; size: 4092K
+2. AkzidGroBEMdEx; type: Font file; size: 0K
+3. Akzidenz Grotesk; type: Font file; size: 0K
+4. PTSans.ttc; type: Font file; size: 2699K
+5. RedFiv; type: Font file; size: 0K
+6. RedFive.bmap; type: Font file; size: 0K
