@@ -11,7 +11,7 @@ While earlier identity elements for Team Peru varied widely, the colour purple h
 
 The colour values for the complementary yellow used in these materials are:
 - CMYK: 1-16-100-0
-- RGB: 252-214-0
+- RGB: 255-209-12
 
 ## Acknowledgements
 
