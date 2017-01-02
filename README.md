@@ -12,3 +12,23 @@ While earlier identity elements for Team Peru varied widely, the colour purple h
 The colour values for the complementary yellow used in these materials are:
 - CMYK: 1-16-100-0
 - RGB: 252-214-0
+
+## Acknowledgements
+
+Student volunteers who participated on the branding team in 2014-2015
+
+### Class of 2015
+- Elise Copas
+
+### Class of 2016
+- Cecilia	Burgendahl
+- Rebecca	Flowers
+- Jasmyne	Bedayse
+- Emily	Insua
+- Camilla	Jensen
+- Olivia	Jensen
+- Josephina	Jørgensen
+- Catherine	Templeton
+- Tessa	Tumbere
+- Max	Twining-Ward
+- Emily	Willvonseder
