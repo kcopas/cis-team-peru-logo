@@ -3,7 +3,7 @@ Files related to the development of a logo for Team Peru, a charity club at the 
 
 The font used in the Team Peru logotype is [Red Five](http://www.fonthead.com/fonts/RedFive), a free slab serif font developed by Fonthead Design. The font used in the body is the free open-source font, [PT Sans](http://www.paratype.com/public), originally developed by Paratype. 
 
-The mark combines elements of Dannebrog, the Danish national flag, and a simplified version of the golden sun on the [Peruvian flag of March 1822](https://en.wikipedia.org/wiki/Flag_of_Peru#Flag_of_March_1822) and [May 1822](https://en.wikipedia.org/wiki/Flag_of_Peru#Flag_of_May_1822). 
+The mark combines elements of Dannebrog, the Danish national flag, and a simplified version of the golden sun on the [Peruvian flags of March 1822](https://en.wikipedia.org/wiki/Flag_of_Peru#Flag_of_March_1822) and [May 1822](https://en.wikipedia.org/wiki/Flag_of_Peru#Flag_of_May_1822). 
 
 While earlier identity elements for Team Peru varied widely, the colour purple has provided one consistent thread. Color values for the purple used in these materials are:
 - CMYK: 72-100-0-6
